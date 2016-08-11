@@ -132,6 +132,7 @@ comunidad en los canales de comunicación (a saber: Telegram, IRC y Foro).
 
 ## 8. Licencia y atribución
 * Licencia Creative Commons Atribución-NoComercial 4.0 Internacional.
+![Alt text](https://i.creativecommons.org/l/by-nc/4.0/88x31.png "Licencia")
 
 
 Basado en el código de conducta de **CSLve**
