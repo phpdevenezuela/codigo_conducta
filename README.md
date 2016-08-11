@@ -4,7 +4,7 @@
 
 Reconociendo la naturaleza diversa y amplia de los miembros que forman parte de
 este espacio, cuya principal meta los une en función de la difusión y
-desarrollo del Lenguaje de Programción PHP en nuestro país, nos hemos 
+desarrollo del Lenguaje de Programación PHP en nuestro país, nos hemos 
 comprometido en construir un ambiente de respeto, cordialidad, confianza y 
 trabajo conjunto sin que la condiciones individuales de género, raza, credo, 
 religión o afinidad política interfieran con la dinámica que consideramos 
@@ -112,7 +112,7 @@ comunidad en los canales de comunicación (a saber: Telegram, IRC y Foro).
   causa, contacte a un administrador y/o moderador en privado y argumente sus
   acciones. Quejas sobre expulsiones en medios abiertos, sociales, u otros
   canales no son permitidas y conllevaran a más expulsiones.
-* Los administradores y/o moderadores se rigeran por un nivel más alto que
+* Los administradores y/o moderadores se regirán por un nivel más alto que
   otros miembros de la comunidad. Si un administrador y/o moderador crea una
   situación inadecuada, este será cuestionado y sancionado con un estándar más
   alto.
